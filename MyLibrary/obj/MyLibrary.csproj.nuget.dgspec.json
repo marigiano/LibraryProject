@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Coding\\C# vol.2\\MyLibrary\\MyLibrary.csproj": {}
+    "D:\\Coding\\C# vol.2\\LibraryProject\\MyLibrary\\MyLibrary.csproj": {}
   },
   "projects": {
-    "D:\\Coding\\C# vol.2\\MyLibrary\\MyLibrary.csproj": {
+    "D:\\Coding\\C# vol.2\\LibraryProject\\MyLibrary\\MyLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Coding\\C# vol.2\\MyLibrary\\MyLibrary.csproj",
+        "projectUniqueName": "D:\\Coding\\C# vol.2\\LibraryProject\\MyLibrary\\MyLibrary.csproj",
         "projectName": "MyLibrary",
-        "projectPath": "D:\\Coding\\C# vol.2\\MyLibrary\\MyLibrary.csproj",
+        "projectPath": "D:\\Coding\\C# vol.2\\LibraryProject\\MyLibrary\\MyLibrary.csproj",
         "packagesPath": "C:\\Users\\DELL 1551\\.nuget\\packages\\",
-        "outputPath": "D:\\Coding\\C# vol.2\\MyLibrary\\obj\\",
+        "outputPath": "D:\\Coding\\C# vol.2\\LibraryProject\\MyLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -64,7 +64,7 @@
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             },
-            "Microsoft.WindowsDesktop.App.WPF": {
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
               "privateAssets": "none"
             }
           },
